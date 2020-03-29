@@ -1,4 +1,4 @@
-def four_degrees(x):
+def five_degrees(x):
     print(4 ** x)
 
-four_degrees(10)
+five_degrees(10)
